@@ -14,5 +14,5 @@ Given that this circuit isn't that complicated, but that it is not straightforwa
 
 The detailed description is provided in the [wiki](https://github.com/Art-ut-Kia/ArduinoBluetoothLoader/wiki)
 
-And here is a picture of the prototype:
+And here is a picture of a prototype:
 ![text](https://github.com/Art-ut-Kia/ArduinoBluetoothLoader/blob/main/Wiki_images/BT_Loader.jpg)
