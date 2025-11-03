@@ -6,7 +6,7 @@ An **Arduino UNO** associated to an **HC-05 BT module** seemed to be the right c
 Given that this system was intended to be installed in a hard-to-reach location, why not also use Bluetooth for downloading the software?
 I was quite sure that a lot of people had already done the same and that it would take me five minutes to find a guideline with Google or chatGPT.
 
-In fact no. A lot of project didn't solved the issue of using the hardware UART of the UNO and used a software UART instead.
+In fact no. A lot of project didn't solved the issue of using the hardware UART of the UNO and used a slower software UART instead.
 And regarding the code uploading, the issue of the board reset was neither clearly solved.
 
 Hence I enventually drew the circuit by myself.
