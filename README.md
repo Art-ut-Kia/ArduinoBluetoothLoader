@@ -1,7 +1,7 @@
-Arduino UNO bluetooth code uploader
+# Arduino UNO bluetooth code uploader
 
-I was looking for a mean to collect data and transmit it via bluetooth.
-An Arduino UNO associated to an HC-05 BT module seemed to be the best candidates for my project.
+I was looking for a mean to **collect data** and **transmit it via bluetooth**.
+An **Arduino UNO** associated to an **HC-05 BT module** seemed to be the right candidates for my project.
 
 Given that this system was intended to be installed in a hard-to-reach location, why not also use Bluetooth for downloading the software?
 I was quite sure that a lot of people had already done the same and that it would take me five minutes to find a guideline with Google or chatGPT.
