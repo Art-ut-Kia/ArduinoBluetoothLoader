@@ -12,4 +12,7 @@ And regarding the code uploading, the issue of the board reset was neither clear
 Hence I enventually drew the circuit by myself.
 Given that this circuit isn't that complicated, but that it is not straightforward for a person not well versed in EE enginieering, I decided to share it.
 
-Detailed description is provided in the [wiki](https://github.com/Art-ut-Kia/ArduinoBluetoothLoader/wiki)
+The detailed description is provided in the [wiki](https://github.com/Art-ut-Kia/ArduinoBluetoothLoader/wiki)
+
+And here is a picture of the prototype:
+![text](https://github.com/Art-ut-Kia/ArduinoBluetoothLoader/blob/main/Wiki_images/BT_Loader.jpg)
